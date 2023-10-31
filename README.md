@@ -44,7 +44,9 @@ Email válido para certificação SSL
 
     Cloud Win
 
-    Fone: 47 99982-6437(WhatsApp)
+    Fone: 47 99982-6437 (WhatsApp)
+
+    https://api.whatsapp.com/send?phone=5547999826437&text=Olá, estou no Whaticket do github e gostaria de saber mais.
 
 
 ## Tenha mais conteudos em nossa base de conhecimento:
