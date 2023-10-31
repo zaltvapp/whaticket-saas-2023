@@ -31,6 +31,11 @@ Com seu VPS ativado e online vamos seguir:
 
 Subdominio para Frontend
 
+Crie 2 subdominios e aponte para o IP do VPS que será para o seu frontend e o outro para o backend, por exemplo no seu frontend app e backend api, exemplo:
+
+app.seudominio.com - IPDOVPS
+api.seudominioo.com - IPDOVPS
+
 Subdominio para API - backoffice
 
 Email válido para certificação SSL
