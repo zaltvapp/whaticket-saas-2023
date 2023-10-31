@@ -46,7 +46,8 @@ Email válido para certificação SSL
 
     Fone: 47 99982-6437 (WhatsApp)
 
-    [https://api.whatsapp.com/send?phone=5547999826437&text=Olá, estou no Whaticket do github e gostaria de saber mais.](https://api.whatsapp.com/send?phone=5547999826437&text=Ol%C3%A1,%20estou%20no%20Whaticket%20do%20github%20e%20gostaria%20de%20saber%20mais.)
+
+https://api.whatsapp.com/send?phone=5547999826437&text=Ol%C3%A1,%20estou%20no%20Whaticket%20do%20github%20e%20gostaria%20de%20saber%20mais.
 
 
 ## Tenha mais conteudos em nossa base de conhecimento:
