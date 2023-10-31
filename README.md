@@ -1,6 +1,4 @@
-<h1 align="center">Whaticket Baileys |Canal Vem Fazer</h1>
-
-<h1 align="center">https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ</h1>
+<h1 align="center">Whaticket SaaS White label Baileys</h1>
 
 
 ## Vamos instalar?
@@ -8,7 +6,7 @@
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/ctichat/instaladorvemfazer install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/zaltvapp/instalador-whaticket install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
@@ -19,7 +17,17 @@ cd && cd ./install && sudo ./install_instancia
 
 ## Para Instalação você precisa:
 
-Uma VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
+Um VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
+
+Cloud VPS no Canadá:
+
+https://clientes.cloudwin.com.br/index.php?rp=/store/cloud-vmware-canada
+
+Cloud VPS no Brasil:
+
+https://clientes.cloudwin.com.br/index.php?rp=/store/cloud-vmware-brasil-sp
+
+Com seu VPS ativado e online vamos seguir:
 
 Subdominio para Frontend
 
@@ -29,18 +37,13 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    CANAL VEM FAZER LTDA
+    Cloud Win
 
-    Fone: 81 99627-7285(WhatsApp)
-
-
-## Se o conteúdo te ajudou ajude este projeto:
-(Nos ajude a trazer novos conteúdos todos os dias!)
+    Fone: 47 99982-6437(WhatsApp)
 
 
-Copia e cola:
+## Tenha mais conteudos em nossa base de conhecimento:
 
-    00020126580014BR.GOV.BCB.PIX01362e05806e-d1b7-4eb7-b1db-f02009c7bc015204000053039865802BR592552.262.410 RAPHAEL BATIST6009SAO PAULO61080540900062250521IteWKSyU6xhcUBH1lncfj63040504
-
+https://clientes.cloudwin.com.br/index.php?rp=/knowledgebase
 
 
